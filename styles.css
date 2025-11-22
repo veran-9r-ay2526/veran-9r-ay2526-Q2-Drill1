@@ -1,0 +1,19 @@
+body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: Zen Dots, sans-serif;
+}
+.col-sm-5{
+    background-color: rgba(255, 255, 255, 0.8);
+    border: solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.bg-warning{
+    border: thick solid black;
+}
